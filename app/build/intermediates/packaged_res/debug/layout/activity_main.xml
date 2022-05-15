@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Banking Partner"
+            android:textSize="20sp"
+            android:textAlignment="center"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black">
+        </TextView>
+
+        <EditText
+            android:id="@+id/CreditScore"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:layout_marginHorizontal="10dp"
+            android:paddingHorizontal="10dp"
+            android:hint="Credit Score (300-900)"
+            android:minHeight="48dp">
+
+        </EditText>
+
+        <EditText
+            android:id="@+id/Age"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:hint="Age (Above 18)"
+            android:minHeight="48dp"
+            android:layout_marginHorizontal="10dp"
+            android:paddingHorizontal="10dp"
+            tools:ignore="DuplicateIds"
+            android:autofillHints="">
+
+        </EditText>
+
+        <EditText
+            android:id="@+id/Tenure"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="10dp"
+            android:paddingHorizontal="10dp"
+            android:hint="Tenure"
+            android:minHeight="48dp">
+
+        </EditText>
+
+        <EditText
+            android:id="@+id/Balance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="10dp"
+            android:paddingHorizontal="10dp"
+            android:hint="Balance"
+            android:minHeight="48dp">
+
+        </EditText>
+
+        <EditText
+            android:id="@+id/NumberOfProducts"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="10dp"
+            android:paddingHorizontal="10dp"
+            android:hint="Number Of Products (CreditCards, ChequeBooks etc.)"
+            android:minHeight="48dp"
+            android:textColorHint="#757575">
+
+        </EditText>
+
+
+        <EditText
+            android:id="@+id/HasCrCard"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="10dp"
+            android:paddingHorizontal="10dp"
+            android:hint="Has Credit Card? (Y/N = 0/1)"
+            android:minHeight="48dp">
+
+        </EditText>
+
+        <EditText
+            android:id="@+id/IsActiveMember"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="10dp"
+            android:paddingHorizontal="10dp"
+            android:hint="Is Active Member (Y/N = 0/1)"
+            android:minHeight="48dp">
+
+        </EditText>
+
+        <EditText
+            android:id="@+id/EstimatedSalary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="10dp"
+            android:paddingHorizontal="10dp"
+            android:hint="Estimated Salary (In Rupees)"
+            android:minHeight="48dp">
+
+        </EditText>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="25dp"
+            android:text="should we say goodbye to that customer?"
+            android:id="@+id/predict">
+        </Button>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textAlignment="center"
+            android:layout_marginTop="10dp"
+            android:textSize="20dp"
+            android:layout_marginHorizontal="10dp"
+            android:paddingHorizontal="10dp"
+            android:layout_marginBottom="20dp"
+            android:textColor="@android:color/holo_red_dark"
+            android:id="@+id/result">
+        </TextView>
+
+
+    </LinearLayout>
+</ScrollView>

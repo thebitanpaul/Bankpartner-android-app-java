@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-pngs-20:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/xml_backup_rules.xml.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/bitanpaul/.gradle/daemon/7.3.3/com.example.bankpartner.app-main-27:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bankpartner.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "com.example.bankpartner.app-main-27:/layout/activity_main.xml"
+    }
+]
