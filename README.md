@@ -1,5 +1,5 @@
 
-# BirthdayGreeting
+# BankPartner App
 
 This is a beginner friendly app. A beginner app developer can learn about usage of textView, scrollView, Toast and their corrsponding java code.
 
