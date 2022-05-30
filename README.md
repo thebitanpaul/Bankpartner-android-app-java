@@ -1,5 +1,5 @@
 
-# BankPartner App
+# BankPartner App - java
 
 A Machine Learning based dynamic app that helps the bank authority to determine whether their customer will stay in their respective bank or they have to put some efforts so that they can prevent customer loss in advance.
 
